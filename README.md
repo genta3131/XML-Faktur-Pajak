@@ -96,4 +96,3 @@ Dirancang untuk pemakaian lokal. Login, CSRF, auth, dan rate limiting **tidak** 
 
 ## Lisensi
 
-MIT. Belum ada file `LICENSE` di repo — tambahkan sebelum publikasi.
