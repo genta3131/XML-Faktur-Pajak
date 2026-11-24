@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TaxInvoiceBulk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TaxInvoice.xsd">
+    <TIN>0022310395038000</TIN>
+    <ListOfTaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-30</TaxInvoiceDate>
+            <RefDesc>1100000458-111217992-01-Dedi Saripudin</RefDesc>
+            <BuyerDocument>National ID</BuyerDocument>
+            <BuyerDocumentNumber>3173071007760006</BuyerDocumentNumber>
+            <BuyerName>ACHMAD MUCHYIDIN</BuyerName>
+        </TaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-30</TaxInvoiceDate>
+            <RefDesc>1100000459-111217993-02-Dedi Saripudin</RefDesc>
+            <BuyerDocument>NPWP</BuyerDocument>
+            <BuyerDocumentNumber>002231039503800</BuyerDocumentNumber>
+            <BuyerName>ACHMAD MUCHYIDIN</BuyerName>
+        </TaxInvoice>
+    </ListOfTaxInvoice>
+</TaxInvoiceBulk>

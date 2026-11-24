@@ -1,0 +1,29 @@
+flowchart TD
+    %% XML Faktur Toolkit — arus aplikasi (v3)
+    A(["👤 User buka app/index.php"]) --> B{"3 menu"}
+    B -->|1. Cek baris bermasalah| C(["Upload XML + daftar nomor baris"])
+    C --> D(["POST api.php → action=check_lines"])
+    D --> E(["FakturLineResolver::buildIndex: indeks blok <TaxInvoice> per baris"])
+    E --> F(["resolve: cocokkan baris error → invoice + RefDesc + tag terdekat"])
+    F --> G(["Hasil tabel: baris, RefDesc, tag, isi baris, status"])
+    G --> H(["Tampilkan di browser"])
+
+    B -->|2. Cocokkan KTP / NPWP| I(["Upload XML + Excel master Sample NIK.xlsx"])
+    I --> J(["POST api.php → action=match"])
+    J --> K(["MasterReader::read: .xlsx via SimpleXLSX, .xls via PhpSpreadsheet"])
+    K --> L(["Matcher::buildIndex: kunci cardCode|invoice"])
+    L --> M(["matchRefDesc: NPWP → dokumen NPWP(+BuyerTin); KTP → National ID; kosong → diabaikan; tidak ada → not_found"])
+    M --> N(["FakturReviser::apply: tulis BuyerDocument/BuyerDocumentNumber → XML revisi"])
+    N --> O(["Simpan hasil ke app/tmp dengan token acak"])
+    O --> P(["download.php: kirim file, hapus file tmp > 1 jam"])
+
+    B -->|3. XML → Excel| Q(["Upload XML"])
+    Q --> R(["POST api.php → action=convert"])
+    R --> S(["FakturExporter::export: baca XML, hitung total DPP/PPN/STLG"])
+    S --> T(["Simpan .xlsx: sheet Ringkasan + Detail Barang"])
+    T --> O
+
+    classDef ui fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
+    classDef proc fill:#fff9c4,stroke:#fbc02d;
+    class A,B,H,P ui;
+    class C,D,E,F,G,I,J,K,L,M,N,Q,R,S,T proc;

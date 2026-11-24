@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TaxInvoiceBulk>
+    <ListOfTaxInvoice>
+                <TaxInvoice>
+            <TaxInvoiceDate>2026-10-30</TaxInvoiceDate>
+            <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+            <TrxCode>04</TrxCode>
+            <AddInfo />
+            <CustomDoc />
+            <CustomDocMonthYear />
+            <RefDesc>1100000458-111217992-01-Dedi Saripudin</RefDesc>
+            <FacilityStamp />
+            <SellerIDTKU>0022310395038000000000</SellerIDTKU>
+                        <BuyerTin>3173071007760006</BuyerTin>
+                                    <BuyerDocument>TIN</BuyerDocument>
+                        <BuyerCountry>IDN</BuyerCountry>
+                        <BuyerDocumentNumber />
+                        <BuyerName>ACHMAD MUCHYIDIN</BuyerName>
+            <BuyerAdress>JL KEMANGGISAN PULO 2 RT07/09</BuyerAdress>
+            <BuyerEmail />
+            <BuyerIDTKU>3173071007760006000000</BuyerIDTKU>
+            <ListOfGoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Balsem Otot Geliga 10g 1x40x12x10g</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>4119.14</Price>
+                    <Qty>12</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>49429.68</TaxBase>
+                    <OtherTaxBase>45310.54
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>5437.26</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Balsem Otot Geliga 20g 1x20x12x20g</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>7373.80</Price>
+                    <Qty>12</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>88485.60</TaxBase>
+                    <OtherTaxBase>81111.80
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>9733.42</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Minyak Kayu Putih no.4 15ml 1x48x12x15ml</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>5562.16</Price>
+                    <Qty>36</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>200237.76</TaxBase>
+                    <OtherTaxBase>183551.28
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>22026.15</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Minyak Kayu Putih no.2 60ml 1x12x12x60ml</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>18717.12</Price>
+                    <Qty>24</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>449210.88</TaxBase>
+                    <OtherTaxBase>411776.64
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>49413.20</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                            </ListOfGoodService>
+        </TaxInvoice>
+                <TaxInvoice>
+            <TaxInvoiceDate>2026-10-30</TaxInvoiceDate>
+            <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+            <TrxCode>04</TrxCode>
+            <AddInfo />
+            <CustomDoc />
+            <CustomDocMonthYear />
+            <RefDesc>1100002047-111217993-01-Idham K</RefDesc>
+            <FacilityStamp />
+            <SellerIDTKU>0022310395038000000000</SellerIDTKU>
+                        <BuyerTin>3171074709580001</BuyerTin>
+                                    <BuyerDocument>TIN</BuyerDocument>
+                        <BuyerCountry>IDN</BuyerCountry>
+                        <BuyerDocumentNumber />
+                        <BuyerName>YUSNIAR</BuyerName>
+            <BuyerAdress>JL.LONTAR ATAS NO.143 RT 003/012 KEBON MELATI TANAH ABANG</BuyerAdress>
+            <BuyerEmail />
+            <BuyerIDTKU>3171074709580001000000</BuyerIDTKU>
+            <ListOfGoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Balsem Otot Geliga 10g 1x40x12x10g</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>4162.16</Price>
+                    <Qty>6</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>24972.96</TaxBase>
+                    <OtherTaxBase>22891.88
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>2747.03</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Balsem Otot Geliga 20g 1x20x12x20g</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>7450.60</Price>
+                    <Qty>6</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>44703.60</TaxBase>
+                    <OtherTaxBase>40978.30
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>4917.40</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Balsem Otot Geliga 40g 1x12x12x40g</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>14438.74</Price>
+                    <Qty>3</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>43316.22</TaxBase>
+                    <OtherTaxBase>39706.54
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>4764.78</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Minyak Gosok Pijat Urut 30ml 1x12x12x30ml</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>8352.10</Price>
+                    <Qty>6</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>50112.60</TaxBase>
+                    <OtherTaxBase>45936.55
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>5512.39</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Minyak Gosok Pijat Urut 60ml 1x6x12x60ml</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>14320.42</Price>
+                    <Qty>6</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>85922.52</TaxBase>
+                    <OtherTaxBase>78762.31
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>9451.48</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Kool Fever Adult</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>6224.32</Price>
+                    <Qty>6</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>37345.92</TaxBase>
+                    <OtherTaxBase>34233.76
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>4108.05</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>KoolFever 1x16x12</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>5650.45</Price>
+                    <Qty>12</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>67805.40</TaxBase>
+                    <OtherTaxBase>62154.95
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>7458.59</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                            </ListOfGoodService>
+        </TaxInvoice>
+                <TaxInvoice>
+            <TaxInvoiceDate>2026-10-30</TaxInvoiceDate>
+            <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+            <TrxCode>04</TrxCode>
+            <AddInfo />
+            <CustomDoc />
+            <CustomDocMonthYear />
+            <RefDesc>1100002061-111218083-01-Dedi Saripudin</RefDesc>
+            <FacilityStamp />
+            <SellerIDTKU>0022310395038000000000</SellerIDTKU>
+                        <BuyerTin>3173011010790017</BuyerTin>
+                                    <BuyerDocument>TIN</BuyerDocument>
+                        <BuyerCountry>IDN</BuyerCountry>
+                        <BuyerDocumentNumber />
+                        <BuyerName>MOH ABRORI</BuyerName>
+            <BuyerAdress>JL BUDI BAKTI NO.13 RT20/12 JAKARTA BARAT</BuyerAdress>
+            <BuyerEmail />
+            <BuyerIDTKU>3173011010790017000000</BuyerIDTKU>
+            <ListOfGoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Minyak Kayu Putih no.4 15ml 1x48x12x15ml</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>5562.16</Price>
+                    <Qty>1</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>5562.16</TaxBase>
+                    <OtherTaxBase>5098.65
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>611.84</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>Minyak Kayu Putih no.3 30ml 1x24x12x30ml</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>10153.15</Price>
+                    <Qty>1</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>10153.15</TaxBase>
+                    <OtherTaxBase>9307.05
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>1116.85</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>KoolFever  Baby 1x16x12</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>4312.01</Price>
+                    <Qty>24</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>103488.24</TaxBase>
+                    <OtherTaxBase>94864.22
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>11383.71</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                                <GoodService>
+                    <Opt>A</Opt>
+                    <Code>000000</Code>
+                    <Name>KOOL FAVER EKONOMIS UNTUK ANAK-ANAK Sachet</Name>
+                    <Unit>UM.0021</Unit>
+                    <Price>3118.20</Price>
+                    <Qty>192</Qty>
+                    <TotalDiscount>0.00</TotalDiscount>
+                    <TaxBase>598694.40</TaxBase>
+                    <OtherTaxBase>548803.20
+                    </OtherTaxBase>
+                    <VATRate>12</VATRate>
+                    <VAT>65856.38</VAT>
+                    <STLGRate>0</STLGRate>
+                    <STLG>0</STLG>
+                </GoodService>
+                            </ListOfGoodService>
+        </TaxInvoice>
+    </ListOfTaxInvoice>
+</TaxInvoiceBulk>

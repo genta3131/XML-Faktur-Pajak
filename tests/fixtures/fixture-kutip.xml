@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TaxInvoiceBulk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TaxInvoice.xsd">
+    <TIN>0022310395038000</TIN>
+    <ListOfTaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-06</TaxInvoiceDate>
+            <RefDesc>111215417-111217992-01-Dedi Saripudin</RefDesc>
+            <BuyerDocument>National ID</BuyerDocument>
+            <BuyerDocumentNumber>&#039;3175042004810002</BuyerDocumentNumber>
+            <BuyerName>DEDI SARIPUDIN</BuyerName>
+        </TaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-06</TaxInvoiceDate>
+            <RefDesc>111215418-111217993-02-Dedi Saripudin</RefDesc>
+            <BuyerDocument>National ID</BuyerDocument>
+            <BuyerDocumentNumber>&#039;3175023112720011</BuyerDocumentNumber>
+            <BuyerName>DEDI SARIPUDIN</BuyerName>
+        </TaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-06</TaxInvoiceDate>
+            <RefDesc>111215419-111217994-03-Dedi Saripudin</RefDesc>
+            <BuyerDocument>National ID</BuyerDocument>
+            <BuyerDocumentNumber>3175042004810002</BuyerDocumentNumber>
+            <BuyerName>DEDI SARIPUDIN</BuyerName>
+        </TaxInvoice>
+    </ListOfTaxInvoice>
+</TaxInvoiceBulk>

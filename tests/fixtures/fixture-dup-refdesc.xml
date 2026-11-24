@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TaxInvoiceBulk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TaxInvoice.xsd">
+    <TIN>0022310395038000</TIN>
+    <ListOfTaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-07</TaxInvoiceDate>
+            <RefDesc>111215420-111217995-01-Nama Pembeli</RefDesc>
+            <BuyerDocument>National ID</BuyerDocument>
+            <BuyerDocumentNumber>3173071007760006</BuyerDocumentNumber>
+            <BuyerName>NAMA PEMBELI</BuyerName>
+        </TaxInvoice>
+        <TaxInvoice>
+            <TaxInvoiceDate>2026-10-07</TaxInvoiceDate>
+            <RefDesc>111215420-111217995-01-Nama Pembeli</RefDesc>
+            <BuyerDocument>National ID</BuyerDocument>
+            <BuyerDocumentNumber>3173071007760006</BuyerDocumentNumber>
+            <BuyerName>NAMA PEMBELI</BuyerName>
+        </TaxInvoice>
+    </ListOfTaxInvoice>
+</TaxInvoiceBulk>

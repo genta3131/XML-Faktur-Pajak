@@ -1,0 +1,14 @@
+{
+    "name": "xml-faktur-toolkit/v3",
+    "description": "XML Faktur Toolkit v3 — support Excel .xlsx dan .xls",
+    "require": {
+        "php": ">=8.0",
+        "phpoffice/phpspreadsheet": "^1.29 || ^2.0 || ^3.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    }
+}
